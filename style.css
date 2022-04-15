@@ -9,6 +9,11 @@ body {
   overflow-x: hidden;
 }
 
+.pro img {
+  width: 400px;
+  height: 250px;
+}
+
 img {
   width: 400px;
 }
